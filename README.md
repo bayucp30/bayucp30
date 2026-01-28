@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Bayu Chandra Putra 👋
 
-<!--
-**bayucp30/bayucp30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience in SQL, BI Dashboards, and Data Visualization.
+Former Data Analyst at GameChange Indonesia.
 
-Here are some ideas to get you started:
+Skills:
+- SQL (MySQL)
+- Tableau, Power BI
+- Excel
+- Python (Pandas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Portfolio Index: (link nanti)
+📫 LinkedIn: www.linkedin.com/in/bayuchandraputra
