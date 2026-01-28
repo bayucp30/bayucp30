@@ -10,4 +10,5 @@ Skills:
 - Python (Pandas)
 
 📌 Portfolio Index: [Portfolio Data Analyst](https://github.com/bayucp30/Portfolio-Data-Analyst)
+
 📫 LinkedIn: www.linkedin.com/in/bayuchandraputra
