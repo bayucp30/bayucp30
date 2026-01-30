@@ -1,7 +1,6 @@
 Hi, I'm Bayu Chandra Putra 👋
 
-Data Analyst with experience in SQL, BI Dashboards, and Data Visualization.
-Former Data Analyst at GameChange Indonesia.
+Data Analyst with 3 years experience in SQL, BI Dashboards, and Data Visualization.
 
 Skills:
 - SQL (MySQL)
