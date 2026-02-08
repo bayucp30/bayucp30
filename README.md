@@ -4,7 +4,8 @@ Data Analyst with 3 years experience in SQL, BI Dashboards, and Data Visualizati
 
 Skills:
 - SQL (MySQL)
-- Tableau, Power BI
+- Tableau
+- Power BI
 - Excel
 - Python (Pandas)
 
