@@ -6,7 +6,7 @@ Skills:
 - Tableau
 - Power BI
 - Excel
-- Python (Pandas, Numpy, Scikit-learn)
+- Python (Pandas, Numpy, Matplotlib, Scikit-learn)
 
 📌 Portfolio Index: [Portfolio Data Analyst](https://github.com/bayucp30/Portfolio-Data-Analyst)
 
