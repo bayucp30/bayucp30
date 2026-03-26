@@ -1,5 +1,4 @@
-Hi, I'm Bayu Chandra Putra 👋
-
+I'm Bayu Chandra Putra, a Master’s graduate in Computer Science.
 Data Analyst with 3 years experience in SQL, BI Dashboards, and Data Visualization.
 
 Skills:
